@@ -1,5 +1,5 @@
 # Hotnews-Scraper
-Hotnews scraper, information made simple.
+Scrape news from several sources
 
 <p align="center"><img src="http://i.imgur.com/3PTT2fM.png" /</p>
 
