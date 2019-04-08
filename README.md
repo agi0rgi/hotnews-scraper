@@ -19,4 +19,4 @@ As shown in main.py file
 - [x]  Add categories for news
 - [ ]  Should i create a lil documentation?
 
-Hit me up on telegram: @eigoog
+Hit me up on telegram: @alessanro
